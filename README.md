@@ -1,11 +1,11 @@
 ### Hi 👋
 
-- 🔭 I’m currently working on [CustoMiner](https://github.com/Wivon/CustoMiner)
-- 🌱 I’m currently learning nodeJS, react & some frameworks
-- 🏘️ My **main website** is [Wivon Hub](https://wivon-hub.tk)
-- 💖 I love commit with **emojis** (like this ✔️)
+- 🔭 I’m currently working on ***Vecting*** 
+- 🌱 I’m currently learning nodeJS, Nuxt & some frameworks
+- 🏘️ My **main website** is [Wivon](https://wivonhub.com)
+- 💖 I love to commit with **emojis** (like this ✔️)
 - 🌍 I'm french, I live in **France**
-- 👯 Discord: **Wivon#2227**
+- 👯 Discord: **wivon**
 
 <hr>
 
