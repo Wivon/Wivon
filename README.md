@@ -9,7 +9,7 @@
 
 <hr>
 
-![Wivon Stats](https://github-readme-stats.vercel.app/api?username=Wivon&hide=issues,stars,contribs,prs)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wivon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--
 **Wivon/Wivon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
